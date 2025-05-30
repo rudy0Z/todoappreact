@@ -21,8 +21,7 @@ git clone https://github.com/rudy0Z/react-todo-app.git
 cd react-todo-app
 npm install
 npm run dev
-
-
+```
 
  Testing Guidance
 Open your browser and go to http://localhost:5173
